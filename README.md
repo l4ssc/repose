@@ -27,7 +27,7 @@ Support for applications may vary. Most of the applications listed have the abil
   * [ ] iTerm2
   * [ ] GNOME Terminal
   * [ ] Konsole
-  * [x] Kitty (#2)
+  * [x] Kitty
   * [ ] PuTTY
   * [ ] st
   * [ ] Termite
